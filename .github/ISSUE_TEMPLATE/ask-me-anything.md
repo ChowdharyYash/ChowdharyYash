@@ -7,18 +7,23 @@ assignees: ''
 
 ---
 
-## Your Question
+## 💬 Your Question
 
-<!-- Please write your question here. Feel free to ask about: -->
-<!-- - Data Science / Machine Learning -->
-<!-- - My Master's program experience -->
-<!-- - Career advice -->
-<!-- - Project ideas -->
-<!-- - Or anything else! -->
+**What would you like to know?**
 
-## Context (Optional)
-
-<!-- Add any context or background about your question if needed -->
+Feel free to ask about:
+- 📊 Data Science / Machine Learning
+- 🎓 My Master's program experience  
+- 💼 Career advice
+- 🚀 Project ideas
+- 🤝 Collaboration opportunities
+- ✨ Or anything else!
 
 ---
+
+## 📝 Additional Context (Optional)
+
+
+---
+
 *Thanks for reaching out! I'll get back to you as soon as possible.* 😊
