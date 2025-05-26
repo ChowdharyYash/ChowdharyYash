@@ -1,8 +1,8 @@
 ---
 name: Ask Me Anything
 about: Ask me anything about data science, my journey, or just say Hi!
-title: ''
-labels: question
+title: Happy to answer :)
+labels: ''
 assignees: ''
 
 ---
