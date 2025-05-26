@@ -10,7 +10,7 @@ I'm a passionate Master's student diving deep into the world of data science and
 - 🌱 Learning and implementing machine learning algorithms, deep learning frameworks, and statistical modeling
 - 💡 Fascinated by how AI can solve real-world business problems
 - 🎯 Actively seeking opportunities to apply my skills in a professional setting
-- 📫 How to reach me: [yashchowdhary0002@gmail.com]
+- 📫 How to reach me: How to reach me: [yashchowdhary0002@gmail.com](mailto:yashchowdhary0002@gmail.com)
 - 💬 Ask me about anything [here](https://github.com/[YourUsername]/[YourUsername]/issues)
 
 ## 🛠️ Tech Stack
