@@ -16,6 +16,7 @@ I'm a passionate Master's student diving deep into the world of data science and
 - 📫 How to reach me: [yashchowdhary0002@gmail.com](mailto:yashchowdhary0002@gmail.com)
 - 💬 Ask me about anything [here](https://github.com/ChowdharyYash/ChowdharyYash/issues/1)
 - 🌐 [Portfolio](https://chowdharyyash.github.io/Portfolio_Website/)
+- 💡 Check out my live machine learning models hosted on [Hugging Face.](https://huggingface.co/YashChowdhary)
 
 ## 🛠️ Tech Stack
 
